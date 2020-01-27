@@ -1,0 +1,1 @@
+Criar novo personagem = 0x35B02EFF

@@ -1,0 +1,1 @@
+Essa nova versão aplica o Spawn ao player ser conectado, para assim, poder utilizar o efeito Magic Animation que necessita de funções dependentes do Spawn do mesmo.

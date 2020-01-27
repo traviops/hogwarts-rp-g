@@ -1,0 +1,4 @@
+CENÁRIOS TELA DE LOGIN
+	- Colocar jogador flutuando com um fundo onde tenha estantes, poções, livros e objetos que são da natureza de uma
+	aula de poções.
+

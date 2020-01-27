@@ -1,0 +1,1 @@
+Antes de otimizar as TextDraws privadas do menu de login e registro: username e password.

@@ -1,0 +1,1 @@
+Antes de passar todos textos de dialogs para o módulo 'server/texts'.

@@ -1,0 +1,3 @@
+Anuncio cash
+	- Jogadores colocam cash a venda por um valor em dinheiro no jogo, e outros jogadores podem comprar.
+	O local para essa venda fica num NPC.

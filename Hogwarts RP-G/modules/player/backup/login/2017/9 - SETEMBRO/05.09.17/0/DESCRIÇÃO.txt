@@ -1,0 +1,1 @@
+Fazendo testes com textdraws fade e title...title está como global textdraw.

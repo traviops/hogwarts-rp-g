@@ -1,0 +1,3 @@
+Fazer duas vesões do Hogwarts, 0.3.7 e 0.3.8, ambas devem serem lançadas e após um período limitado a 0.3.7 deve ser
+desativada. Isso obrigará os jogadores da 0.3.7 a migrarem para a 0.3.8, após já terem se fixado no servidor e terem
+dado um *esperado* bom feedback do modo HOGS RP.

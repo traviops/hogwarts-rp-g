@@ -1,0 +1,1 @@
+Antes de remover códigos comentados que contém fix da textdraw, pois estes já estão em um módulo específico para isso, o 'textfix'.

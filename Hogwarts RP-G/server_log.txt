@@ -1,0 +1,170 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[20:17:56] filterscripts = ""  (string)
+[20:17:56] 
+[20:17:56] Server Plugins
+[20:17:56] --------------
+[20:17:56]  Loading plugin: crashdetect
+[20:17:56]   CrashDetect v4.18.1 is OK.
+[20:17:56]   Loaded.
+[20:17:56]  Loading plugin: sscanf
+[20:17:56] 
+
+[20:17:56]  ===============================
+
+[20:17:56]       sscanf plugin loaded.     
+
+[20:17:56]          Version:  2.8.1        
+
+[20:17:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:17:56]  ===============================
+
+[20:17:56]   Loaded.
+[20:17:56]  Loading plugin: streamer
+[20:17:56] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:17:56]   Loaded.
+[20:17:56]  Loading plugin: mysql
+[20:17:56]  >> plugin.mysql: R41-2 successfully loaded.
+[20:17:56]   Loaded.
+[20:17:56]  Loading plugin: FCNPC
+[20:17:56] 
+[20:17:56] -------------------------------------------------
+[20:17:56]      FCNPC - Fully Controllable NPC v2.0.0
+[20:17:56]             Windows SA-MP 0.3.DL R1
+[20:17:56]            Jan  2 2019 at 23:09:26
+[20:17:56] 
+[20:17:56]   Author:       OrMisicL (2013 - 2015)
+[20:17:56]   Continued by: ziggi    (2016 - present)
+[20:17:56] 
+[20:17:56]   See full credits in the README.md file
+[20:17:56] -------------------------------------------------
+[20:17:56] 
+[20:17:56] Loading...
+[20:17:56] 
+[20:17:56] -------------------------------------------------
+[20:17:56]    ColAndreasv1.4.0
+[20:17:56] 
+[20:17:56]    Created By:
+[20:17:56]      [uL]Chris42O
+[20:17:56]      [uL]Slice
+[20:17:56]      [uL]Pottus
+[20:17:56] -------------------------------------------------
+[20:17:56] 
+[20:17:56] Loading...
+[20:17:56] ColAndreas v1.4.0 Loaded.
+[20:17:56]   Loaded.
+[20:17:56]  Loading plugin: MapAndreas
+[20:17:56]   Loaded.
+[20:17:56]  Loaded 6 plugins.
+
+[20:17:56] [artwork:crc] M_DFLT_1_A.dff CRC = 0x9A9351B
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_DFLT_1_B.dff CRC = 0xE2F35870
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_DFLT_1_W.dff CRC = 0x368D18CC
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_DFLT_2_A.dff CRC = 0x8A8D48BD
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_DFLT_2_B.dff CRC = 0x25BF2E5D
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_DFLT_2_W.dff CRC = 0x46F0F3FE
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_GRIF_1_A.dff CRC = 0xF3D34BB
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_GRIF_1_B.dff CRC = 0xF120E2A5
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_GRIF_1_W.dff CRC = 0xBED15694
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_GRIF_2_A.dff CRC = 0xDFCB05B9
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_GRIF_2_B.dff CRC = 0xD8BA4F37
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_GRIF_2_W.dff CRC = 0x16192D80
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_SON_1_A.dff CRC = 0x50A786A5
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_SON_1_B.dff CRC = 0x873D687
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_SON_1_W.dff CRC = 0x4A629B2
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_SON_2_A.dff CRC = 0x7703DDD
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_SON_2_B.dff CRC = 0xD5DD8F87
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_SON_2_W.dff CRC = 0x273A4F4E
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_LUFA_1_A.dff CRC = 0x85C301CE
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_LUFA_1_B.dff CRC = 0x250F2B91
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_LUFA_1_W.dff CRC = 0x4E730967
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_LUFA_2_A.dff CRC = 0x829B8060
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_LUFA_2_B.dff CRC = 0xD71B290B
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_LUFA_2_W.dff CRC = 0x4D60F991
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_CORV_1_A.dff CRC = 0xEF1BECDC
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_CORV_1_B.dff CRC = 0x48AA38CE
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_CORV_1_W.dff CRC = 0x31BFB61F
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_CORV_2_A.dff CRC = 0xCD449360
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_CORV_2_B.dff CRC = 0x29B8B1F3
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] M_CORV_2_W.dff CRC = 0xCB20778C
+[20:17:56] [artwork:crc] male.txd CRC = 0x6D3B4CF0
+[20:17:56] [artwork:crc] nimbus2000.dff CRC = 0x348B4290
+[20:17:56] [artwork:crc] nimbus2000.txd CRC = 0xB06185AC
+[20:17:56] [artwork:crc] M_HAIR_01.dff CRC = 0xFE167552
+[20:17:56] [artwork:crc] hair.txd CRC = 0x8512DD09
+[20:17:56] [artwork:crc] M_HAIR_02.dff CRC = 0x21815D6
+[20:17:56] [artwork:crc] hair.txd CRC = 0x8512DD09
+[20:17:56] [artwork:crc] M_HAIR_03.dff CRC = 0xA137A7C2
+[20:17:56] [artwork:crc] hair.txd CRC = 0x8512DD09
+[20:17:57] 
+[20:17:57] Filterscripts
+[20:17:57] ---------------
+[20:17:57]   Loaded 0 filterscripts.
+
+[20:17:57] No collision data found.
+[20:17:57]  
+[20:17:57]  
+[20:17:57]  
+[20:17:57]  ======================================= 
+[20:17:57]  |                                     | 
+[20:17:57]  |        YSI version 1.06.0002        | 
+[20:17:57]  |        By Alex "Y_Less" Cole        | 
+[20:17:57]  |                                     | 
+[20:17:57]  ======================================= 
+[20:17:57]  
+[20:17:57]  
+[20:17:57]  
+[20:17:57] ________________________________________
+
+  > Carregando módulos
+
+[20:17:57]   + modules/core/modulecontrol.pwn
+[20:17:57]   + modules/core/textfix.pwn
+[20:17:57]   + modules/player/login.pwn
+[20:17:57] [npc:join] NPC_LOGIN_CENARIO has joined the server (19:127.0.0.1)
+[20:17:57]   + modules/player/character.pwn
+[20:17:57]   + modules/player/spawn.pwn
+[20:17:57]   + modules/player/fader.pwn
+[20:17:57]   + modules/player/controls.pwn
+[20:17:57]   + modules/data/player.pwn
+[20:17:57]   + modules/data/connection.pwn

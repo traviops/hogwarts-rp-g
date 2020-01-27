@@ -1,0 +1,5 @@
+M_DFLT_1_A
+	M = Masculino
+	DFLT = Nome da casa, default sem casa
+	1 = estilo da roupa
+	A = Ásiatico (B = Black/Negro; W = White/Branco)

@@ -1,0 +1,17 @@
+Mundo
+- Horário do servidor tempo real
+- Climas aleatórios inteligentes
+
+Aulas
+- Separar por mensal/bimestre
+- Turmas serem criadas quando um certo número de jogadores se inscreverem e assim fechar uma tumra
+- Horários fixos para cada aula manhã/tarde/noite
+
+Wikipédia
+- Fazer uma wiki com tudo, itens, aulas, mapas e etc
+- Programa com wikipédia
+
+Sistema de moeda premium - Venda de modas
+- Jogadores colocam cash a venda por um valor em dinheiro no jogo, e outros jogadores podem comprar. O local para essa
+venda fica num NPC.
+

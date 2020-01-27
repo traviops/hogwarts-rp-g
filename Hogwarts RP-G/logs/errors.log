@@ -1,0 +1,2 @@
+[20:18:01] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2003 'Can't connect to MySQL server on 'localhost' (0)'
+[20:18:05] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2003 'Can't connect to MySQL server on 'localhost' (0)'

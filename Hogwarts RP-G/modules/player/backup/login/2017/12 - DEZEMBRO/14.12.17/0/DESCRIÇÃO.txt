@@ -1,0 +1,1 @@
+Código documentado. Antes de remover códigos comentados e aparentemente desnecessários.

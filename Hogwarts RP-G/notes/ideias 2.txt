@@ -1,0 +1,9 @@
+ideias para o hogwarts
+- investimento nas lojas do beco diagonal, nos produtos e etc, onde o lucro vai variar dependendo das vendas
+quanto mais uma loja tiver investimento, maior serão seus serviços, como mais atendentes, produtos e etc
+- poder criar negócios no beco diagonal, tanto criar lojas como vender para elas
+- criar o ministério da magia
+- fotos que se movem: quando os jogadores tirarem uma foto que se mexe, qualquer movimento que fizerem deverá ser
+retratado com actors quando forem visualizar as fotos, as mesmas skins, na mesma posição, no mesmo mapa, com os mesmos
+movimentos, sejam estes animações ou mudança de estado (de pé ou agachado)
+- 
